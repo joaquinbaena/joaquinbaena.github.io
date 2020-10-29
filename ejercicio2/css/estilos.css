@@ -1,0 +1,44 @@
+ul{
+	list-style-image:url("../img/flecha-azul.png") ;
+}
+
+ol{
+	list-style-type:cjk-ideographic ;
+}
+
+ol#romano {
+	list-style-type:upper-roman;
+}
+
+ol#letra {
+	list-style-type:lower-alpha;
+}
+
+ol#decimal {
+	list-style-type:decimal;
+}
+
+ol ul{
+	list-style-image:url("../img/flecha-rojal.png") ;
+}
+
+ol ol ul{
+	list-style-image:url("../img/flecha-verde.png") ;
+}
+
+ul ul{
+	list-style-image:url("../img/flecha-verde.png") ;
+}
+
+.punto {
+	list-style-image:url("../img/punto-rojo.png");
+}
+
+.defte {
+	font-weight:bold;
+	color:#0080a0;
+}
+
+.defda {
+	font-style:italic;
+}

@@ -1,0 +1,39 @@
+body {
+	background-color:lightgrey;
+	font-family:sans-serif;
+	margin:10px;
+}
+
+h1 {
+	text-align:center;
+	letter-spacing: 10px;
+	font-size:300%;
+}
+
+p {
+	margin: 0 10% 0 10%;
+}
+
+img {
+	float:left;
+	margin-right: 1%;
+	width:106px;
+	height:150px;
+}
+
+h2 {
+	margin: 4% 5% 2% 5%;
+	background-color:grey;
+	color:white;
+	font-size: 2em;
+}
+
+span.rojo{
+	font-style:italic;
+	color:red;
+}
+
+span.blanco{
+	font-weight:bold;
+	background-color:white;
+}
