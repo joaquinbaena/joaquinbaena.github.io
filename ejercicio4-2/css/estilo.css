@@ -1,0 +1,54 @@
+body {
+	background-color:lightgrey;
+	font-family:sans-serif;
+	margin:10px;
+}
+
+
+@font-face{
+	font-family: 'rosskey';
+	src: url("..\fonts\Monday-PersonalUse.ttf") format("truetype");
+	font-weight:normal;
+	font-style:normal;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Turret+Road:wght@800&display=swap');
+
+h1 {
+	text-align:center;
+	letter-spacing: 10px;
+	font-size:300%;
+	font-family: 'Turret Road', cursive;
+}
+
+p {
+	margin: 0 10% 0 10%;
+	font-family:"monday";
+	text-align:justify;
+	text-indent:5%;
+}
+
+img {
+	float:left;
+	margin-right: 1%;
+	width:106px;
+	height:150px;
+}
+
+h2 {
+	margin: 4% 5% 2% 5%;
+	background-color:grey;
+	color:white;
+	font-size: 2em;
+	font-family:rosskey;
+}
+
+span.rojo{
+	font-style:italic;
+	color:red;
+}
+
+span.blanco{
+	font-weight:bold;
+	background-color:white;
+}
