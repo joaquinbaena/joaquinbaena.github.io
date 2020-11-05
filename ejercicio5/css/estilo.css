@@ -1,0 +1,72 @@
+.caja1{
+    margin: 2%;
+    border: 10px solid orange;
+    padding: 10px 10px 10px 20px;
+    background-color: palegoldenrod;
+    width: 40%;
+    text-align: justify;
+}
+.resaltado{
+    color: blue;
+    background-color: white;
+    font-weight: bold;
+}
+.caja2{
+    margin: 2%;
+    border: 3px dashed black;
+    border-radius:  10px 50px 10px 50px;
+    box-shadow: 10px 10px 10px gray;
+    padding: 10px 10px 20px 20px;
+    background-color: palegoldenrod;
+    width: 40%;
+    text-align: justify;
+}
+.caja3{
+    border: black 12px solid;
+    border-image-source: url("../img/bola-100.png");
+    text-align: justify;
+    margin: 2%;
+
+}
+.caja4{
+    border: silver 27px solid;
+    border-image-source: url("../img/pastilla.png");
+    border-image-slice: 27;
+    padding: 1%;
+    margin: 2%;
+}
+.caja5{
+    border: silver 20px solid;
+    border-width: 50px 80px 20px 80px;
+    border-image-source: url("../img/ventana.png");
+    border-image-slice: 50 80 20 80;
+    margin: 2%;
+}
+.caja6{
+    border: silver 40px solid;
+    border-image-source: url("../img/hormigas.png");
+    border-image-slice: 70;
+    border-image-repeat: stretch;
+    margin: 2%;
+}
+.contenedor{
+    position: absolute;
+    top: 60px;
+    right: 0px;
+    width: 40%;
+    margin-right: 50px;
+}
+
+pre{
+    border: 1.5px solid blue;
+    background-color: white;
+	text-align:justify;
+}
+#resaltar{
+    color: blue;
+    font-weight: bold;
+}
+
+h1 {
+	text-align:center;
+}
