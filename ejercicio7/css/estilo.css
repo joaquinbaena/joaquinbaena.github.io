@@ -1,0 +1,40 @@
+ul.menu{
+	list-style-type:none;
+	background:grey;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
+
+ul.menu a:hover{
+	background:#444;
+	color:#000000;
+}
+
+ul.menu a:link, ul.menu li a:visited{
+	color:white;
+	text-decoration:none;
+}
+
+ul.menu a.rojo:link, a.rojo:visited{
+	color:white;
+	text-decoration:none;
+	background:#ab2a3e;
+}
+
+ul.menu a:active{
+	color:black;
+	background: lightgrey;
+	text-decoration:none;
+}
+
+
+li{
+	float:left;
+}
+
+li a{
+	display:inline-block;
+	color:red;
+	padding: 14px 16px;
+}
