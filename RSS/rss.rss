@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<rss version="2.0">
+	<channel>
+		<title>Trabajo RSS</title>
+		<link>https://joaquinbaena.github.io</link>
+		<description>RSS para Sistemas Informáticos 1º DAW</description>
+		<lenguaje>es-es</lenguaje>
+		<webMaster>a20basajo@iesgrancapitan.org</webMaster>
+		<category>Noticias</category>
+		<lastBuildDate>Mon, 15 feb 2021 17:00:00 +0100</lastBuildDate>
+		<image>
+			<url>https://www.wowchakra.com/wp-content/uploads/2020/02/logoC.png</url>
+			<title>Feed las noticias más actuales de blizzard</title>
+			<link>https://https://www.wowchakra.com/</link>
+		</image> 
+		<skipDays>
+			<day>Saturday</day>
+			<day>Sunday</day>
+		</skipDays>
+		<skipHours>
+			<hour>0</hour>
+			<hour>1</hour>
+			<hour>2</hour>
+			<hour>3</hour>
+			<hour>4</hour>
+			<hour>5</hour>
+  		</skipHours>
+		<item>
+			<title>...</title>
+			<link>...</link>
+			<description>...</description>
+			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>...</title>
+			<link>...</link>
+			<description>...</description>
+			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>...</title>
+			<link>...</link>
+			<description>...</description>
+			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+		</item>
+		<item>
+			<title>...</title>
+			<link>...</link>
+			<description>...</description>
+			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
