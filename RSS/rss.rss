@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 	<rss version="2.0">
 	<channel>
-		<title>Trabajo RSS</title>
+		<title>Las noticias más actuales de blizzard</title>
 		<link>https://joaquinbaena.github.io</link>
 		<description>RSS para Sistemas Informáticos 1º DAW</description>
-		<lenguaje>es-es</lenguaje>
-		<webMaster>a20basajo@iesgrancapitan.org</webMaster>
-		<category>Noticias</category>
-		<lastBuildDate>Mon, 15 feb 2021 17:00:00 +0100</lastBuildDate>
+		<language>es-es</language>
+		<managingEditor>a20basajo@grancapitan.org (Joaquín Baena)</managingEditor>
+		<category>Noticias de blizzard</category>
+		<lastBuildDate>Fri, 12 Feb 2021 17:00:00 +0100</lastBuildDate>
 		<image>
-			<url>https://www.wowchakra.com/wp-content/uploads/2020/02/logoC.png</url>
-			<title>Feed las noticias más actuales de blizzard</title>
+			<url>https://raw.githubusercontent.com/joaquinbaena/joaquinbaena.github.io/gh-pages/RSS/logoC.png</url>
+			<title>Las noticias más actuales de blizzard</title>
 			<link>https://https://www.wowchakra.com/</link>
 		</image> 
 		<skipDays>
@@ -26,28 +26,54 @@
 			<hour>5</hour>
   		</skipHours>
 		<item>
-			<title>...</title>
-			<link>...</link>
-			<description>...</description>
-			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+			<title>DIABLOL 2 EPISODIO 15: DURIEL THE PAIN TRAIN</title>
+			<description>El episodio 14 de Diablol 2 nos había dejado con la boca abierta justo antes de llegar a uno de los jefes más temidos, Duriel. Esta semana los héroes hacen frente al jefe final del acto 2 en uno de los mejores episodios de la serie, ¡enorme Carbot!
+			</description>
+			<link>https://www.diablonext.com/foros/d/2826-diablol-2-episodio-15-duriel-the-pain-train</link>
+			<author>email@em.blizzard.com</author>
+			<category>Vídeos de la comunidad Diablo</category>
+			<enclosure url="https://github.com/joaquinbaena/joaquinbaena.github.io/blob/gh-pages/RSS/diablol-2-ep-15-duriel-the-pain-train.mp4"
+				type="video/mp4" length="32572719"/>
+			<pubDate>Fri, 12 Feb 2021 17:00:00 +0100</pubDate>
 		</item>
+		
 		<item>
-			<title>...</title>
-			<link>...</link>
-			<description>...</description>
-			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+			<title>Más botín en bandas a partir del 16/17 de Febrero</title>
+			<description>
+			Con el mantenimiento programado de esta semana (16/17 de Febrero), tenemos intención de hacer ajustes para aumentar la cantidad de botín que cae en Castillo de Nathria y mejorar los índices de ciertos tipos de botín.
+			</description>
+			<link>https://www.wowchakra.com/wow/mas-botin-en-bandas-a-partir-del-16-17-de-febrero</link>
+			<author>email@em.blizzard.com</author>
+			<category>World of Warcraft</category>
+			<enclosure url="https://raw.githubusercontent.com/joaquinbaena/joaquinbaena.github.io/gh-pages/RSS/WowChakraPruebasRaidBetaSL.jpg" length="33271" type="image/jpg" />
+			<pubDate>Fri, 12 Feb 2021 17:00:00 +0100</pubDate>
 		</item>
+
 		<item>
-			<title>...</title>
-			<link>...</link>
-			<description>...</description>
-			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+			<title>Correcciones en vivo Parche 9.0.2 de WoW – 11 de Febrero</title>
+			<description>
+			Nuevas notas del parche 9.0.2 para world of warcraft!
+			</description>
+			<link>https://www.wowchakra.com/wow/correcciones-en-vivo-parche-9-0-2-de-wow-11-de-febrero</link>
+			<author>email@em.blizzard.com</author>
+			<category>Actualización WoW</category>
+			<enclosure url="https://raw.githubusercontent.com/joaquinbaena/joaquinbaena.github.io/gh-pages/RSS/WowChakraHotfixesShadowlands.jpg"
+			length="127556438"
+			type="image/jpg" />
+			<pubDate>Fri, 12 Feb 2021 17:00:00 +0100</pubDate>
 		</item>
+
 		<item>
-			<title>...</title>
-			<link>...</link>
-			<description>...</description>
-			<pubDate>Mon, 15 feb 2021 17:00:00 +0100</pubDate>
+			<title>La Hacienda de Volo, nueva zona añadida al Bosque de Elwynn en el Parche 9.0.5</title>
+			<description>
+			Se trata de la Hacienda de Volo, que por ahora no se sabe qué función podría tener dentro del juego.
+			Dentro no encontramos a ningún personaje y lo que si se puede ver es que está lleno de pociones.
+			</description>
+			<link>https://www.wowchakra.com/wow/la-hacienda-de-volo-nueva-zona-anadida-al-bosque-de-elwynn-en-el-parche-9-0-5</link>
+			<author>email@em.blizzard.com</author>
+			<category>Actualización WoW</category>
+			<enclosure url="https://github.com/joaquinbaena/joaquinbaena.github.io/blob/gh-pages/RSS/yt1s.com%20-%20Elwynn%20ForestMusic.mp3" length="61234" type="audio/mp3" />
+			<pubDate>Fri, 12 Feb 2021 17:00:00 +0100</pubDate>
 		</item>
 	</channel>
 </rss>
